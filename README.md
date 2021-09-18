@@ -7,6 +7,9 @@ It is the same way, python libraries are published such as numpy, pandas, etc.
 # Tutorial
 [Python Packaging Tutorial](https://packaging.python.org/tutorials/packaging-projects/)
 
-# More about Markdown
+## Final Python Package on testPyPI
+[package](https://test.pypi.org/project/exmaple-pkg-sams-practice/0.1.0/)
+
+## More about Markdown
 [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
